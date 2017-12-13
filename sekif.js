@@ -131,7 +131,7 @@ function auto_safeconvert() {<br />
         }<br />
         if (a_to_vh == false) {<br />
             var encryptedUrl = Base64.encode(a_to_vi);<br />
-            a_to_ve[i].href = "https://sekip/p/go.html?url=" + encryptedUrl;<br />
+            a_to_ve[i].href = "https://sekif.blogspot.com/p/go.html?url=" + encryptedUrl;<br />
             a_to_ve[i].rel = "nofollow";<br />
             a_to_vb++;<br />
             a_to_vc += i + ":::" + a_to_ve[i].href + "\n";<br />
